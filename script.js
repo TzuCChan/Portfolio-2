@@ -11,3 +11,13 @@ for (let i = 0; themeSwitches.length > i; i++) {
     setTheme(mode)
   })
 }
+
+function setTheme(mode) {
+  if (mode == "light") {
+    document.getElementById("theme-style").href = "style.css";
+  }
+
+  if (mode == "dark") {
+    document.getElementById("theme-style").href = "darkStyle.css";
+  }
+}
