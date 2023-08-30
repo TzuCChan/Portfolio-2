@@ -1,0 +1,14 @@
+:root {
+  --mainColor: gray;
+  --subColor: white;
+
+  --borderColor: gray;
+
+  --mainText: black;
+  --subText: #404549;
+
+  --themeDotBorder: black;
+
+  --previewBG: rgb(251, 249, 243, 0.8);
+  --previewShadow: rgba(110, 147, 92, 0.721);
+}
