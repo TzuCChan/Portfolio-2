@@ -55,4 +55,5 @@ a,
 p,
 li{
   font-family: "Roboto Mono", monospace;
+  color: var(--subText);
 }
