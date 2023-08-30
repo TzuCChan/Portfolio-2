@@ -53,4 +53,6 @@ h6 {
 
 a,
 p,
-li{}
+li{
+  font-family: "Roboto Mono", monospace;
+}
