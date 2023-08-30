@@ -31,3 +31,7 @@ h6 {
   font-weight: 500;
   color: var(--mainText);
 }
+
+h1 {
+  font-size: 56px;
+}
