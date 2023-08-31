@@ -79,4 +79,6 @@ li{
     "left-column right-column";
 }
 
-.nav {}
+.nav {
+  grid-area: nav;
+}
