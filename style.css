@@ -92,4 +92,7 @@ li{
   padding-right: 35px;
 }
 
-.left-side {}
+.left-side {
+  grid-area: left-column;
+  padding-top: 30px;
+}
