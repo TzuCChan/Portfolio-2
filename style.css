@@ -84,4 +84,6 @@ li{
   border-bottom: 1px solid var(--borderColor);
 }
 
-.navlist {}
+.navlist {
+  display: flex;
+}
