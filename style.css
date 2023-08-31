@@ -81,4 +81,5 @@ li{
 
 .nav {
   grid-area: nav;
+  border-bottom: 1px solid var(--borderColor);
 }
