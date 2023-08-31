@@ -58,4 +58,6 @@ li{
   color: var(--subText);
 }
 
-.hello {}
+.hello {
+  display: grid;
+}
