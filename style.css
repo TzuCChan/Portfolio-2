@@ -86,4 +86,5 @@ li{
 
 .navlist {
   display: flex;
+  list-style: none;
 }
