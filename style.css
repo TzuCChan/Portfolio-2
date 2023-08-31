@@ -69,5 +69,5 @@ li{
   background-color: var(--subColor);
   border: 1px solid var(--borderColor);
   border-radius: 5px 5px 0 0;
-  box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: black;
 }
