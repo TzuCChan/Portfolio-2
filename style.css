@@ -62,4 +62,5 @@ li{
   display: grid;
   text-align: center;
   align-content: center;
+  min-height: 10em;
 }
