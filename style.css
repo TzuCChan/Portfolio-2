@@ -65,4 +65,6 @@ li{
   min-height: 10em;
 }
 
-.intro {}
+.intro {
+  background-color: var(--subColor);
+}
