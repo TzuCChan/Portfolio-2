@@ -67,4 +67,5 @@ li{
 
 .intro {
   background-color: var(--subColor);
+  border: 1px solid var(--borderColor);
 }
