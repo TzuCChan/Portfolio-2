@@ -60,4 +60,5 @@ li{
 
 .hello {
   display: grid;
+  text-align: center;
 }
