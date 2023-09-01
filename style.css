@@ -103,4 +103,5 @@ li{
   margin: 0 auto;
   height: 275px;
   width: 275px;
+  object-fit: cover;
 }
