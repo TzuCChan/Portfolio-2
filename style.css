@@ -138,4 +138,5 @@ li{
 
 .right-side {
   grid-area: right-side;
+  display: grid;
 }
