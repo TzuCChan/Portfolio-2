@@ -123,3 +123,7 @@ li{
   box-shadow: -1px 1px 3px -1px black;
   cursor: pointer;
 }
+
+.theme-switch:hover {
+  border-width: 5px;
+}
