@@ -112,4 +112,6 @@ li{
   justify-content: center;
 }
 
-.theme-switch {}
+.theme-switch {
+  height: 30px;
+}
