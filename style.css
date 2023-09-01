@@ -93,7 +93,7 @@ li{
 }
 
 .left-side {
-  grid-area: left-column;
+  grid-area: left-side;
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -134,4 +134,8 @@ li{
 
 #dark-mode {
   background-color: black;
+}
+
+.right-side {
+  grid-area: right-side;
 }
