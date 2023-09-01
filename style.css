@@ -131,3 +131,7 @@ li{
 #light-mode {
   background-color: white;
 }
+
+#dark-mode {
+  background-color: black;
+}
