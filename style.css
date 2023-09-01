@@ -106,3 +106,5 @@ li{
   object-fit: cover;
   border-bottom: 2px solid var(--borderColor);
 }
+
+#theme-options-wrapper {}
