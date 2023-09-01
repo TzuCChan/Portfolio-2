@@ -98,4 +98,6 @@ li{
   padding-bottom: 30px;
 }
 
-.profile-pic {}
+.profile-pic {
+  display: block;
+}
