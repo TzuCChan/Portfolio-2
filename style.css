@@ -107,4 +107,6 @@ li{
   border-bottom: 2px solid var(--borderColor);
 }
 
-#theme-options-wrapper {}
+#theme-options-wrapper {
+  display: flex;
+}
