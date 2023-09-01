@@ -109,4 +109,5 @@ li{
 
 #theme-options-wrapper {
   display: flex;
+  justify-content: center;
 }
