@@ -128,4 +128,6 @@ li{
   border-width: 5px;
 }
 
-#light-mode {}
+#light-mode {
+  background-color: white;
+}
