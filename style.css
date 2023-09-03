@@ -218,3 +218,8 @@ header,
 .Biography {
   background-color: var(--subColor);
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
