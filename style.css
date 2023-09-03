@@ -213,3 +213,8 @@ header,
   background-color: var(--mainColor);
   border-bottom: 1px solid var(--borderColor);
 }
+
+.About,
+.Biography {
+  background-color: var(--subColor);
+}
