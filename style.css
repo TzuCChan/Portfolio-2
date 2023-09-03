@@ -194,3 +194,8 @@ a {
   text-decoration: none;
   color: blue;
 }
+
+.main-container {
+  margin: 0 auto;
+  width: 1200px;
+}
