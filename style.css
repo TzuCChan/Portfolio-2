@@ -199,3 +199,9 @@ a {
   margin: 0 auto;
   width: 1200px;
 }
+
+.skills {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: var(--previewShadow);
+}
