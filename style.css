@@ -223,3 +223,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.project-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 320px);
+  justify-content: center;
+  padding-bottom: 50px;
+  gap: 20px;
+}
