@@ -143,3 +143,11 @@ li{
   padding-top: 20px;
   padding-bottom: 80px;
 }
+
+#preview-shadow {
+  background-color: var(--previewShadow);
+  width: 300px;
+  height: 250px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
