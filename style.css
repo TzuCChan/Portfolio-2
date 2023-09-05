@@ -200,11 +200,17 @@ a {
   width: 1200px;
 }
 
+.Biography {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
 .skillsandlanguages {
   display: flex;
   justify-content: space-evenly;
-  /* background-color: var(--previewShadow); */
-  background-color: white
+  background-color: var(--previewShadow);
 }
 
 header,
@@ -257,4 +263,10 @@ img {
 .project-description {
   color: black;
   margin: 0;
+}
+
+@media screen and (max-width: 2500px) {
+  .main-container {
+    width: 95%;
+  }
 }
