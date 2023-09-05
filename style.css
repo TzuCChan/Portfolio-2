@@ -200,7 +200,7 @@ a {
   width: 1200px;
 }
 
-.skills {
+.skillsandlanguage {
   display: flex;
   justify-content: space-evenly;
   background-color: var(--previewShadow);
