@@ -200,10 +200,11 @@ a {
   width: 1200px;
 }
 
-.skillsandlanguage {
+.skillsandlanguages {
   display: flex;
   justify-content: space-evenly;
-  background-color: var(--previewShadow);
+  /* background-color: var(--previewShadow); */
+  background-color: white
 }
 
 header,
