@@ -245,3 +245,9 @@ img {
   display: block;
   object-fit: cover;
 }
+
+.project-preview {
+  background-color: white;
+  padding: 10px;
+  height: 100%;
+}
