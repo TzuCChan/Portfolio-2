@@ -76,7 +76,7 @@ li{
   grid-template-columns: 1fr 1fr;
   grid-template-areas:
     "nav nav"
-    "left-column right-column";
+    "left-side right-side";
 }
 
 .nav {
@@ -210,7 +210,8 @@ a {
 .skillsandlanguages {
   display: flex;
   justify-content: space-evenly;
-  background-color: var(--previewShadow);
+  background-color: white
+  /* background-color: var(--previewShadow); */
 }
 
 header,
