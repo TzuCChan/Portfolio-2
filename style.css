@@ -251,3 +251,9 @@ img {
   padding: 10px;
   height: 100%;
 }
+
+.project-title,
+.project-description {
+  color: black;
+  margin: 0;
+}
