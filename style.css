@@ -272,6 +272,11 @@ img {
   margin: 0;
 }
 
+.contact {
+  color: yellow;
+  text-align: center;
+}
+
 /* .container {
   margin: 0 auto;
   width: 1200px;
