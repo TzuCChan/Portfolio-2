@@ -214,8 +214,8 @@ a {
   /* background-color: var(--previewShadow); */
 }
 
-.experienceandeducation {
-  display: flex;
+.experience {
+  display:grid;
   justify-content: space-evenly;
   background-color: var(--previewShadow);
 }
