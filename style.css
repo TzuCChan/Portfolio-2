@@ -220,6 +220,12 @@ a {
   background-color: var(--previewShadow);
 }
 
+.education {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: var(--previewShadow);
+}
+
 header,
 .tech,
 .photos {
