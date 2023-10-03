@@ -317,3 +317,11 @@ x {
     justify-content: center;
   }
 }
+
+.footer {
+  position: button;
+  font-size: 10px;
+  text-align: center;
+  /* background: black; */
+  padding: 1rem;
+}
