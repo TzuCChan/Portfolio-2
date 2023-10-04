@@ -10,7 +10,7 @@ head {
  img { height: 30px;
        width: 30px;
        padding: 10px 600px 10px;
-       /* display:flex; */
+       /* display:inline-block */
  }         
  
  .BK { background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
