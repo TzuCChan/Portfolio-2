@@ -9,8 +9,8 @@ head {
  
  img { height: 30px;
        width: 30px;
-       padding: 10px 600px 10px;
-       /* display:inline-block */
+       padding: 40px 30px 30px 40px;
+       /* text-align: center; */
  }         
  
  .BK { background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
@@ -70,5 +70,6 @@ p {
 .call {
   /* padding: 1rem; */
   color: green;
+  text-align: center;
   /* background-color: pink; */
 }
